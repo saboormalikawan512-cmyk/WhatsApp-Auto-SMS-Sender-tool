@@ -18,7 +18,7 @@ Selenium 🌐
 Chrome WebDriver
 📦 Installation
 1. Clone the repository
-git clone https://github.com/your-username/whatsapp-automation.git
+git clone https://github.com/saboormalikawan512-cmyk/whatsapp-automation.git
 cd whatsapp-automation
 2. Install dependencies
 pip install -r requirements.txt
